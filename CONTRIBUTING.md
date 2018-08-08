@@ -1,6 +1,6 @@
 # Contributing to Linden
 
-We :heart: that you want to contribute to our project! Please take the time to review this guide and understand how we work. Remember, all interactions in this repository should adhere to the [code of conduct](code-of-conduct.md).
+We love :heart: that you want to contribute :keyboard: to our project! Please take the time to review this guide and understand how we work. Remember, all interactions in this repository should adhere to the [code of conduct](code-of-conduct.md). Check out this video to learn more:
 
 :tv: [Video: Understanding the GitHub Flow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
 
@@ -24,3 +24,11 @@ In the first field, type a commit message. The commit message should briefly tel
 - Keep your commit messages to 50 characters or less. Add extra detail in the extended description window if necessary. This is located just below the subject line.
 - Use active voice. For example, "add" instead of "added" and "create" instead of "created".
 - Think of your commit as expressing intent to introduce a change.
+
+## Using Pull requests
+
+Once you’ve created a commit, it’s time to share your proposed change through a pull request! Issues encourage discussion with other contributors and collaborators. Pull requests help you share your changes, receive feedback on them, and iterate on them until they’re perfect! Check out this video to learn more:
+
+:tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
+
+The pull request keeps the changes you just made on your branch and proposes applying them to the `master` branch.
