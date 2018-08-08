@@ -32,3 +32,9 @@ Once you’ve created a commit, it’s time to share your proposed change throug
 :tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
 
 The pull request keeps the changes you just made on your branch and proposes applying them to the `master` branch.
+
+## How you can help
+
+There are many ways you can help us make this project better.
+- If you would like to help, we use labels to organize the work that needs to be done.
+- You can also help by translating documentation and reviewing open pull requests.
