@@ -10,7 +10,12 @@ transit-reliant, yet planning and completing a trip to access employment and ser
 challenging, particularly for parents with young children, seniors and travelers with
 disabilities. There are also many first-mile/last-mile (FMLM) challenges in the district.
 
-Prenatal Trip Assistance
+:point_down: _This arrow means you can expand the window! Click on them for more information._
+<details><summary>Prenatal Trip Assistance</summary>
+<hr>
+
+## Prenatal Trip Assistance
+
 Columbus has one of the highest infant mortality rates in the country, which is partially caused by expectant
 mothers not getting necessary prenatal healthcare. The existing Non-Emergency Medical Transportation
 (NEMT) system does not always provide reliable round-trip transportation. Linden residents have challenges
@@ -21,7 +26,14 @@ This project will be further vetted with key stakeholders to identify goals and 
 force for deployment of this project is the need to provide a more streamlined and efficient NEMT system to
 improve mobility and satisfaction for users.
 
-Smart Mobility Hubs (SMH)
+<hr>
+</details><br>
+
+<details><summary>Smart Mobility Hubs (SMH)</summary>
+<hr>
+
+##Smart Mobility Hubs (SMH)
+
 Currently, there are no enhanced mobility or multimodal transit features to alleviate FMLM challenges in the
 Linden area or along the Cleveland Ave corridor. Columbus is working to make mobility a great equalizer in
 part by embracing multi-modal transportation and making it as accessible and easy to use as possible. Our
@@ -36,4 +48,7 @@ faces similar FMLM challenges in connecting travelers to their destinations. Thi
 FMLM challenges. The City of Columbus identified the following objectives to evaluate the measurable impact
 the SMH project is intended to provide:
 - Encourage use of multiple modes of transportation
-- Improve overall traveler experience 
+- Improve overall traveler experience
+
+<hr>
+</details>
