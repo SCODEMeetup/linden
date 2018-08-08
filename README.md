@@ -10,7 +10,7 @@ transit-reliant, yet planning and completing a trip to access employment and ser
 challenging, particularly for parents with young children, seniors and travelers with
 disabilities. There are also many first-mile/last-mile (FMLM) challenges in the district.
 
-:point_down: _This arrow means you can expand the window! Click on them for more information._
+:point_down: _These arrows allow window expansion! Click on them for more information._
 <details><summary>Prenatal Trip Assistance</summary>
 <hr>
 
@@ -32,7 +32,7 @@ improve mobility and satisfaction for users.
 <details><summary>Smart Mobility Hubs (SMH)</summary>
 <hr>
 
-##Smart Mobility Hubs (SMH)
+## Smart Mobility Hubs (SMH)
 
 Currently, there are no enhanced mobility or multimodal transit features to alleviate FMLM challenges in the
 Linden area or along the Cleveland Ave corridor. Columbus is working to make mobility a great equalizer in
