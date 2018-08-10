@@ -37,7 +37,7 @@ improve mobility and satisfaction for users.
 Currently, there are no enhanced mobility or multimodal transit features to alleviate FMLM challenges in the
 Linden area or along the Cleveland Ave corridor. Columbus is working to make mobility a great equalizer in
 part by embracing multi-modal transportation and making it as accessible and easy to use as possible. Our
-vision is to transform some COTA bus stops along the BRT CMAX corridor and transit centers into smart
+vision is to transform some [COTA](https://www.cota.com/) bus stops along the BRT CMAX corridor and transit centers into smart
 mobility hubs, where someone getting on or off the bus can easily access the next leg of their trip. Public Wi-Fi
 will be a key enabler for the hub and its points of connection (Wi-Fi is also present in COTA's stations, CMAX,
 and buses). The city plans to outfit the hubs with kiosks to assist in travel planning and expanded
