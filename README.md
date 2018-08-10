@@ -20,7 +20,7 @@ Columbus has one of the highest infant mortality rates in the country, which is 
 mothers not getting necessary prenatal healthcare. The existing Non-Emergency Medical Transportation
 (NEMT) system does not always provide reliable round-trip transportation. Linden residents have challenges
 accessing healthcare services due to the current NEMT model and technologies. It is our goal to work with
-Franklin County and Celebrate One to develop a means for bridging the gap among healthcare providers,
+Franklin County and [Celebrate One](http://celebrateone.info/) to develop a means for bridging the gap among healthcare providers,
 expectant mothers and NEMT services that are paid for through the Medicaid system.
 This project will be further vetted with key stakeholders to identify goals and measurable objectives. A driving
 force for deployment of this project is the need to provide a more streamlined and efficient NEMT system to
